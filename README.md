@@ -1,2 +1,2 @@
 # Image-Ciphering
-A simple symmetric key block cipher for image
+*A simple symmetric-key block cipher for image*
